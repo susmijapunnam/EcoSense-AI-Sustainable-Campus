@@ -2,7 +2,7 @@
 # EcoSense AI
 # Intelligent Insights for Sustainable Resource Consumption
 # 1M1B AI for Sustainability Virtual Internship
-# ============================================================
+# ===========================================================
 
 import os
 import warnings
